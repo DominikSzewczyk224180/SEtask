@@ -1,7 +1,7 @@
 """Text preprocessing functions for the CI/CD teaching demo."""
 
 
-def tokenize_text(text: str) -> list[str]:
+def tokenize_texterrorr(text: str) -> list[str]:
     """Convert text to lowercase whitespace-separated tokens.
 
     Python's ``str.split`` without an explicit separator treats consecutive
